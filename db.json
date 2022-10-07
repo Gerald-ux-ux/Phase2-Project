@@ -1,0 +1,554 @@
+{
+  "contests": [
+    {
+    "name": "ProjectEuler+",
+    "url": "https://hackerrank.com/contests/projecteuler",
+    "start_time": "2014-07-07T15:38:00.000Z",
+    "end_time": "2024-07-30T18:30:00.000Z",
+    "duration": "317616720.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "The Very First Daisi™ Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/the-very-first-daisitm-hackathon/",
+    "start_time": "2022-07-13T07:00:00.000Z",
+    "end_time": "2022-10-08T06:59:00.000Z",
+    "duration": "7516740.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "Urbanize Away",
+    "url": "https://www.hackerearth.com/challenges/hackathon/Urbanize-Away/",
+    "start_time": "2022-08-31T16:30:00.000Z",
+    "end_time": "2022-10-15T16:30:00.000Z",
+    "duration": "3888000.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "IBM zStudent Contest",
+    "url": "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/",
+    "start_time": "2022-09-14T04:00:00.000Z",
+    "end_time": "2023-01-01T04:59:00.000Z",
+    "duration": "9421140.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "Great Learning Software Development & Engineering Admission Challenge",
+    "url": "https://www.hackerearth.com/challenges/competitive/great-learning-software-development-engineering-admission-challenge/",
+    "start_time": "2022-09-14T12:30:00.000Z",
+    "end_time": "2022-10-10T00:30:00.000Z",
+    "duration": "2203200.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "Build With Celo ReFi Hackathon '22",
+    "url": "https://build-with-celo.hackerearth.com/",
+    "start_time": "2022-09-27T19:01:00.000Z",
+    "end_time": "2022-11-07T07:59:00.000Z",
+    "duration": "3502680.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "Quantum Science and Technology Hackathon 2022",
+    "url": "https://quantum-science-and-technology-hackathon-2022.hackerearth.com/",
+    "start_time": "2022-09-29T09:30:00.000Z",
+    "end_time": "2022-10-29T18:29:00.000Z",
+    "duration": "2624340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "HackaNoodle by Zomato & Blinkit",
+    "url": "https://www.hackerearth.com/challenges/competitive/hackanoodle-code-to-inspire/",
+    "start_time": "2022-09-30T12:30:00.000Z",
+    "end_time": "2022-10-10T00:30:00.000Z",
+    "duration": "820800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "Build a Climate Fintech App",
+    "url": "https://rapyd.hackerearth.com/",
+    "start_time": "2022-10-01T12:00:00.000Z",
+    "end_time": "2022-12-08T22:00:00.000Z",
+    "duration": "5911200.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "All Things e-Commerce - GeTS Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/get-hack/",
+    "start_time": "2022-10-01T18:30:00.000Z",
+    "end_time": "2022-10-23T18:29:00.000Z",
+    "duration": "1900740.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "R1 RCM Software Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/r1-rcm-software-engineer-hiring-challenge/",
+    "start_time": "2022-10-03T12:30:00.000Z",
+    "end_time": "2022-10-17T00:30:00.000Z",
+    "duration": "1166400.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+    },
+    {
+    "name": "October Long 2022 (Rated for Div 3 & 4)",
+    "url": "https://www.codechef.com/OCT221",
+    "start_time": "2022-10-07 09:30:00 UTC",
+    "end_time": "2022-10-10 09:30:00 UTC",
+    "duration": "259200",
+    "site": "CodeChef",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Flexcar Codeathon",
+    "url": "https://www.hackerearth.com/challenges/competitive/flexcar-codeathon/",
+    "start_time": "2022-10-07T12:30:00.000Z",
+    "end_time": "2022-10-09T18:25:00.000Z",
+    "duration": "194100.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Full Stack Developer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/full-stack-developer-siemens-healthineers-hiring-challenge/",
+    "start_time": "2022-10-07T12:30:00.000Z",
+    "end_time": "2022-10-17T00:30:00.000Z",
+    "duration": "820800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Software Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/collins-aerospace-lead-software-engineer-hiring-challenge/",
+    "start_time": "2022-10-07T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Java and Python Fullstack Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/java-and-python-fullstack-engineer-hiring-challenge/",
+    "start_time": "2022-10-07T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Clevertap Production Support Engineer (Java) Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/clevertap-production-support-engineer-java-hiring-challenge-2022/",
+    "start_time": "2022-10-07T12:30:00.000Z",
+    "end_time": "2022-10-30T18:25:00.000Z",
+    "duration": "2008500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Dytechlab Cup 2022",
+    "url": "https://codeforces.com/contestRegistration/1737",
+    "start_time": "2022-10-07T14:35:00.000Z",
+    "end_time": "2022-10-07T17:05:00.000Z",
+    "duration": "9000",
+    "site": "CodeForces",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+    },
+    {
+    "name": "DSA Coding Contest - October 22",
+    "url": "https://www.hackerearth.com/challenges/competitive/dsa-coding-contest-october-22/",
+    "start_time": "2022-10-08T04:00:00.000Z",
+    "end_time": "2022-10-08T05:30:00.000Z",
+    "duration": "5400.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "AtCoder Beginner Contest 272",
+    "url": "https://atcoder.jp/contests/abc272",
+    "start_time": "2022-10-08T12:00:00.000Z",
+    "end_time": "2022-10-08T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "OPPO Inspiration Cup",
+    "url": "https://www.hackerearth.com/challenges/competitive/oppo-inspiration-cup/",
+    "start_time": "2022-10-08T12:30:00.000Z",
+    "end_time": "2022-10-08T12:45:00.000Z",
+    "duration": "900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Mercedes-Benz Cloud Platform Developer Hiring Challenge v4.0",
+    "url": "https://www.hackerearth.com/challenges/hiring/mercedes-benz-cloud-platform-developer-hiring-challenge-v40/",
+    "start_time": "2022-10-08T12:30:00.000Z",
+    "end_time": "2022-10-16T18:25:00.000Z",
+    "duration": "712500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Weekly Contest 314",
+    "url": "https://leetcode.com/contest/",
+    "start_time": "2022-10-09T02:30:00.000Z",
+    "end_time": "2022-10-09T04:00:00.000Z",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "AtCoder Regular Contest 150",
+    "url": "https://atcoder.jp/contests/arc150",
+    "start_time": "2022-10-09T12:00:00.000Z",
+    "end_time": "2022-10-09T14:00:00.000Z",
+    "duration": "7200",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1736",
+    "start_time": "2022-10-10T14:35:00.000Z",
+    "end_time": "2022-10-10T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 3)",
+    "url": "https://codeforces.com/contestRegistration/1741",
+    "start_time": "2022-10-11T14:35:00.000Z",
+    "end_time": "2022-10-11T16:50:00.000Z",
+    "duration": "8100",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Starters 60 ",
+    "url": "https://www.codechef.com/START60",
+    "start_time": "2022-10-12 14:30:00 UTC",
+    "end_time": "2022-10-12 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 4)",
+    "url": "https://codeforces.com/contestRegistration/1742",
+    "start_time": "2022-10-13T14:35:00.000Z",
+    "end_time": "2022-10-13T16:50:00.000Z",
+    "duration": "8100",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "DTCC Grace Hopper Codeathon Challenge",
+    "url": "https://hackerrank.com/contests/dtcc-gracehopper-codeathon",
+    "start_time": "2022-10-14T11:30:00.000Z",
+    "end_time": "2022-10-15T04:00:00.000Z",
+    "duration": "59400.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Cogito - IA for AI - product company -  Hiring Challenge - for Platform SE/ SSE/PE",
+    "url": "https://www.hackerearth.com/challenges/hiring/cogito-platform-sr-software-engineer-hiring-challenge/",
+    "start_time": "2022-10-14T12:30:00.000Z",
+    "end_time": "2022-10-24T00:30:00.000Z",
+    "duration": "820800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Hiring Challenge – Dot net “The code of duty”",
+    "url": "https://www.hackerearth.com/challenges/hiring/guardian-life-net-hiring-challenge/",
+    "start_time": "2022-10-14T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Hiring Challenge – Java Phantoms",
+    "url": "https://www.hackerearth.com/challenges/hiring/guardian-life-java-developer-hiring-challenge/",
+    "start_time": "2022-10-14T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Hiring Challenge – UI Tycoons",
+    "url": "https://www.hackerearth.com/challenges/hiring/guardian-life-ui-developer-hiring-challenge/",
+    "start_time": "2022-10-14T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Hiring Challenge  – ETL Chronicles",
+    "url": "https://www.hackerearth.com/challenges/hiring/guardian-life-etl-developer-hiring-challenge/",
+    "start_time": "2022-10-14T12:30:00.000Z",
+    "end_time": "2022-10-23T18:25:00.000Z",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
+    "url": "https://atcoder.jp/contests/abc273",
+    "start_time": "2022-10-15T12:00:00.000Z",
+    "end_time": "2022-10-15T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Round G 2022",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2022-10-15T12:00:00.000Z",
+    "end_time": "2022-10-15T15:00:00.000Z",
+    "duration": "10800.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Biweekly Contest 89",
+    "url": "https://leetcode.com/contest/",
+    "start_time": "2022-10-15T14:30:00.000Z",
+    "end_time": "2022-10-15T16:00:00.000Z",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "AtCoder Regular Contest 151",
+    "url": "https://atcoder.jp/contests/arc151",
+    "start_time": "2022-10-16T12:00:00.000Z",
+    "end_time": "2022-10-16T14:00:00.000Z",
+    "duration": "7200",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 3)",
+    "url": "https://codeforces.com/contestRegistration/1744",
+    "start_time": "2022-10-16T14:35:00.000Z",
+    "end_time": "2022-10-16T16:50:00.000Z",
+    "duration": "8100",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Educational Codeforces Round 137 (Rated for Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1743",
+    "start_time": "2022-10-17T14:35:00.000Z",
+    "end_time": "2022-10-17T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Starters 61 ",
+    "url": "https://www.codechef.com/START61",
+    "start_time": "2022-10-19 14:30:00 UTC",
+    "end_time": "2022-10-19 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Netcracker Backend hiring challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/netcracker-backend-hiring-challenge/",
+    "start_time": "2022-10-21T12:30:00.000Z",
+    "end_time": "2022-11-06T18:25:00.000Z",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "ServiceNow AMS Code to Win",
+    "url": "https://hackerrank.com/contests/servicenow-ams-code-to-win",
+    "start_time": "2022-10-21T13:30:00.000Z",
+    "end_time": "2022-10-21T21:30:00.000Z",
+    "duration": "28800.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Amazon Ads Challenge",
+    "url": "https://hackerrank.com/contests/amazon-ads-challenge",
+    "start_time": "2022-10-22T11:30:00.000Z",
+    "end_time": "2022-10-23T04:00:00.000Z",
+    "duration": "59400.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "キーエンスプログラミングコンテスト2022（AtCoder Beginner Contest 274）",
+    "url": "https://atcoder.jp/contests/abc274",
+    "start_time": "2022-10-22T12:00:00.000Z",
+    "end_time": "2022-10-22T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1732",
+    "start_time": "2022-10-23T10:05:00.000Z",
+    "end_time": "2022-10-23T12:05:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Starters 62 ",
+    "url": "https://www.codechef.com/START62",
+    "start_time": "2022-10-26 14:30:00 UTC",
+    "end_time": "2022-10-26 17:30:00 UTC",
+    "duration": "10800",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "AtCoder Beginner Contest 275",
+    "url": "https://atcoder.jp/contests/abc275",
+    "start_time": "2022-10-29T12:00:00.000Z",
+    "end_time": "2022-10-29T13:40:00.000Z",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "TOYOTA MOTOR CORPORATION Programming Contest 2022（AtCoder Heuristic Contest 015）",
+    "url": "https://atcoder.jp/contests/ahc015",
+    "start_time": "2022-10-30T06:00:00.000Z",
+    "end_time": "2022-10-30T10:00:00.000Z",
+    "duration": "14400",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 1 + Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1740",
+    "start_time": "2022-10-30T12:35:00.000Z",
+    "end_time": "2022-10-30T15:05:00.000Z",
+    "duration": "9000",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Round H 2022",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2022-11-12T03:00:00.000Z",
+    "end_time": "2022-11-12T06:00:00.000Z",
+    "duration": "10800.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Learn Coding for Brother Printers",
+    "url": "https://brother.hackerearth.com/",
+    "start_time": "2022-11-13T04:00:00.000Z",
+    "end_time": "2022-12-25T04:59:00.000Z",
+    "duration": "3632340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Cloudera Applied Machine Learning  Prototype Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/cloudera-applied-machine-learning-prototype-hackathon/",
+    "start_time": "2022-11-14T04:00:00.000Z",
+    "end_time": "2022-11-27T04:59:00.000Z",
+    "duration": "1126740.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "​",
+    "url": "https://www.hackerearth.com/challenges/hackathon/shift-hackathon-2022/",
+    "start_time": "2022-11-17T03:30:00.000Z",
+    "end_time": "2022-11-18T04:30:00.000Z",
+    "duration": "90000.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    },
+    {
+    "name": "Codeforces Round (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1731",
+    "start_time": "2022-12-27T14:35:00.000Z",
+    "end_time": "2022-12-27T16:35:00.000Z",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+    }
+    ]
+}

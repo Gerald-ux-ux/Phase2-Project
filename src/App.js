@@ -1,14 +1,21 @@
-import React from 'react'
-import Nav from './Nav'
-import Fetch from './Fetch'
+import React from "react";
+import Nav from "./Nav";
+import Fetch from "./Fetch";
+import Search from "./Search";
+import "./App.css";
 
 const App = () => {
   return (
-    <div>
-      <Nav />
-      <Fetch />
-    </div>
-  )
-}
+    <>
+      <div className="App">
+        {/* <Search /> */}
+        <Fetch />
+        <Nav />
+      </div>
 
-export default App
+      <div className="Nav"></div>
+    </>
+  );
+};
+
+export default App;
